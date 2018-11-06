@@ -8,4 +8,10 @@ This is a simple sample application intended to be used alongside the labs for D
 2
 3
 4
+10
+10
+10
+10
+10
+`:wq!
 
