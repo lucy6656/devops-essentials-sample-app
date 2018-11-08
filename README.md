@@ -4,18 +4,7 @@ THIS IS MASTER BRANCH
 
 
 
-This is a simple sample application intended to be used alongside the labs for DevOps Essentials.
+This is a simple sample application intended to be used alongside the labs for D
 
-4
-5
-
-2
-3
-4
-10
-10
-10
-10
-10
-`:wq!
+YESYESYESYES
 
